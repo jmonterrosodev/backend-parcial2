@@ -11,8 +11,8 @@ Este proyecto es una aplicación Spring Boot que proporciona una API REST y una 
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    cd tu-repositorio
+    git clone https://github.com/jmonterrosodev/backend-parcial2
+    cd backend-parcial2
     ```
 
 2. Configura la base de datos en el archivo `application.properties`:
